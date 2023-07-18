@@ -1,0 +1,173 @@
+Daily tasks:
+
+Oracle Database instance is running or not:
+Open Oracle SQL Developer.
+In the Connections tab, expand the "Connections" node, and connect to the Oracle Database using the appropriate connection settings.
+If the instance is running, you will see the connection established, and you will be able to browse the database objects.
+
+
+Database Listener is running or not: 
+Windows Services:
+On Windows operating systems, the Oracle Listener is often configured as a Windows Service. You can check the status of the listener service using these steps:
+    Press Win + R to open the Run dialog box.
+    Type services.msc and press Enter to open the Services window.
+    Scroll down and look for the Oracle Listener service, which is typically named "OracleOraDB[SID]TNSListener" where [SID] is the system identifier of the database.
+    Check the "Status" column to see if the service is running (it should be listed as "Running").
+
+
+Check any session blocking the other session:
+
+SELECT s.sid, s.serial#, s.username, s.sql_id, t.sql_text
+FROM v$session s
+JOIN v$sql t ON s.sql_id = t.sql_id
+WHERE s.sid = <blocking_session_id>;
+
+
+Check the alert log for an error:
+SHOW PARAMETER background_dump_dest;
+
+
+Check if there any dbms jobs running & check the status of the same:
+SELECT job, log_user, schemaname, running_instance, elapsed_time
+FROM dba_jobs_running;
+
+
+Check the Top session using more Physical I/O: 
+SELECT s.sid,
+       s.serial#,
+       s.username,
+       ss.value AS physical_io
+FROM v$session s
+JOIN v$sesstat ss ON s.sid = ss.sid
+JOIN v$statname st ON ss.statistic# = st.statistic#
+WHERE st.name = 'physical reads'
+ORDER BY ss.value DESC;
+
+
+Check the number of log switch per hour:
+SELECT TO_CHAR(first_time, 'YYYY-MM-DD HH24') AS switch_hour,
+       COUNT(*) AS log_switches_per_hour
+FROM v$log_history
+GROUP BY TO_CHAR(first_time, 'YYYY-MM-DD HH24')
+ORDER BY switch_hour;
+
+
+How_much_redo_generated_per_hour.sql
+-- How_much_redo_generated_per_hour.sql
+
+-- Calculate the total redo generated per hour
+SELECT
+  TO_CHAR(first_time, 'YYYY-MM-DD HH24') AS switch_hour,
+  ROUND(SUM(blocks * (block_size / 1024) / 1024), 2) AS redo_generated_mb_per_hour
+FROM v$log_history
+CROSS JOIN v$logfile
+WHERE v$log_history.recid = v$logfile.group# -- Join the redo log history with log file information
+GROUP BY TO_CHAR(first_time, 'YYYY-MM-DD HH24')
+ORDER BY switch_hour;
+
+
+Run the statpack report:
+Run:  @?/rdbms/admin/spcreate.sql
+-- Create the PERFSTAT user (if not already created)
+CREATE USER perfstat IDENTIFIED BY password;
+
+-- Grant necessary privileges to the PERFSTAT user
+GRANT CONNECT, RESOURCE, DBA TO perfstat;
+
+-- Connect as the PERFSTAT user
+CONNECT perfstat/password
+
+-- Create the required tablespace for STATSPACK
+CREATE TABLESPACE stats_tbs DATAFILE '/path/to/stats_tbs.dbf' SIZE 100M;
+
+-- Set the default tablespace for the PERFSTAT user
+ALTER USER perfstat DEFAULT TABLESPACE stats_tbs;
+
+-- Create the STATSPACK tables
+@?/rdbms/admin/spctab.sql;
+
+-- Create the required views
+@?/rdbms/admin/spcvtab.sql;
+
+-- First Snapshot
+EXECUTE statspack.snap;
+
+-- Wait for some time or perform the workload you want to analyze.
+
+-- Second Snapshot (after some time or workload)
+EXECUTE statspack.snap;
+
+
+Detect locked objects: 
+SELECT
+    object_name,
+    object_type,
+    session_id,
+    oracle_username,
+    os_user_name,
+    machine,
+    program,
+    lock_type,
+    mode_held
+FROM
+    v$locked_object lo
+JOIN
+    dba_objects obj ON lo.object_id = obj.object_id
+JOIN
+    v$session ses ON lo.session_id = ses.sid;
+
+
+Check the SQL query consuming lot of resources:
+Use Oracle SQL Tuning Advisor:
+The SQL Tuning Advisor is part of Oracle's Automatic SQL Tuning feature. 
+It analyzes SQL statements and provides tuning recommendations. 
+You can run the SQL Tuning Advisor on specific SQL statements identified from the AWR or ASH reports to get tuning advice
+
+Check the usage of SGA:
+
+SELECT
+    name,
+    bytes / 1024 / 1024 AS size_mb,
+    round(bytes / (1024 * 1024 * total_mb), 2) * 100 AS pct_of_total
+FROM
+    v$sga;
+
+
+Display database sessions using rollback segments:
+
+SELECT
+    s.sid AS session_id,
+    s.serial# AS session_serial#,
+    s.username AS oracle_username,
+    s.osuser AS os_user,
+    s.machine AS client_machine,
+    s.program AS client_program,
+    rs.segment_name AS rollback_segment
+FROM
+    v$session s
+JOIN
+    v$transaction t ON s.saddr = t.ses_addr
+JOIN
+    dba_rollback_segs rs ON t.xidusn = rs.segment_id;
+
+
+State of all the DB Block Buffer:
+
+SELECT
+    file# AS "File No",
+    dbablk AS "Block No",
+    class AS "Class",
+    state AS "State",
+    status AS "Status",
+    count(*)
+FROM
+    v$bh
+GROUP BY
+    file#,
+    dbablk,
+    class,
+    state,
+    status
+ORDER BY
+    file#,
+    dbablk;
