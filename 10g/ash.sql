@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/ash.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the minutes spent on each event for the specified time.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @active_session_waits (mins)
