@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/security/grant_delete.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Grants delete on current schemas tables to the specified user/role.
 -- Call Syntax  : @grant_delete (schema-name)
 -- Last Modified: 28/01/2001
