@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/security/view_synonyms.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates synonyms in the current schema for all views in the specified schema.
 -- Call Syntax  : @view_synonyms (schema-name)
 -- Last Modified: 28/01/2001
