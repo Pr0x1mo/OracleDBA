@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/21c/certificates.sql
--- Author       : Tim Hall
+-- Author       : me
 -- Description  : Display certificates in the specified schema, or all schemas.
 -- Call Syntax  : @certificates (schema or all)
 -- Last Modified: 23/12/2020
