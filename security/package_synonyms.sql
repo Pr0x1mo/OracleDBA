@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/security/package_synonyms.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates synonyms in the current schema for all code objects in the specified schema.
 -- Call Syntax  : @package_synonyms (schema-name)
 -- Last Modified: 28/01/2001
