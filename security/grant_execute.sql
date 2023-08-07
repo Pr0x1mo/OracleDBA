@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/security/grant_execute.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Grants execute on current schemas code objects to the specified user/role.
 -- Call Syntax  : @grant_execute (schema-name)
 -- Last Modified: 28/01/2001
