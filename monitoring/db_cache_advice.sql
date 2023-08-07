@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/db_cache_advice.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Predicts how changes to the buffer cache will affect physical reads.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @db_cache_advice
