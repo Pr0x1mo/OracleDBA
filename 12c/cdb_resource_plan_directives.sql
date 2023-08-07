@@ -1,6 +1,6 @@
 -- -----------------------------------------------------------------------------------
 -- File Name    : https://oracle-base.com/dba/12c/cdb_resource_plan_directives.sql
--- Author       : Tim Hall
+-- Author       : Me
 -- Description  : Displays CDB resource plan directives.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @cdb_resource_plan_directives.sql (plan-name or all)
