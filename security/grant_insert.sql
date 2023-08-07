@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/security/grant_insert.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Grants insert on current schemas tables to the specified user/role.
 -- Call Syntax  : @grant_insert (schema-name)
 -- Last Modified: 28/01/2001
