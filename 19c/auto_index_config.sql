@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/19c/auto_index_config.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the auto-index configuration for each container.
 -- Requirements : Access to the CDB views.
 -- Call Syntax  : @auto_index_config
