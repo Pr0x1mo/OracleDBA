@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/code_dep_on.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays all objects dependant on the specified object.
 -- Call Syntax  : @code_dep_on (schema-name or all) (object-name)
 -- Last Modified: 15/07/2000
