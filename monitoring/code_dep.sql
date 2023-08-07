@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/code_dep.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays all dependencies of specified object.
 -- Call Syntax  : @code_dep (schema-name or all) (object-name)
 -- Last Modified: 15/07/2000
