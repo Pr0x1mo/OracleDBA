@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/db_properties.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays all database property values.
 -- Call Syntax  : @db_properties
 -- Last Modified: 15/09/2006
