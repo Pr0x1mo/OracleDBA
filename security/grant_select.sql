@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/security/grant_select.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Grants select on current schemas tables, views & sequences to the specified user/role.
 -- Call Syntax  : @grant_select (schema-name)
 -- Last Modified: 28/01/2001
