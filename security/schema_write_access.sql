@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/security/schema_write_access.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the users with write access to a specified schema.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @schema_write_access.sql (schema-name)
