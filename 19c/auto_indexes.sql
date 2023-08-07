@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/19c/auto_indexes.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays auto indexes for the specified schema or all schemas.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @auto_indexes (schema-name or all)
