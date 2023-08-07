@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/errors.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the source line and the associated error after compilation failure.
 -- Comments     : Essentially the same as SHOW ERRORS.
 -- Call Syntax  : @errors (source-name)
