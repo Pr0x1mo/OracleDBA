@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/db_usage_hwm.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays high water mark statistics.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @db_usage_hwm
