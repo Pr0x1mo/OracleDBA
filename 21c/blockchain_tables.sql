@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/21c/blockchain_tables.sql
--- Author       : Tim Hall
+-- Author       : me
 -- Description  : Display blockchain tables in the specified schema, or all schemas.
 -- Call Syntax  : @blockchain_tables (schema or all)
 -- Last Modified: 23/12/2020
