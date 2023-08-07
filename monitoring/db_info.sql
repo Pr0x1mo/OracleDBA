@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/db_info.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays general information about the database.
 -- Requirements : Access to the v$ views.
 -- Call Syntax  : @db_info
