@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/21c/sql_macros.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about SQL macros for the specific schema, or all schemas.
 -- Call Syntax  : @sql_macros (schema or all)
 -- Last Modified: 27/12/2020
