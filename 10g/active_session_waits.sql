@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/active_session_waits.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information on the current wait states for all active database sessions.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @active_session_waits
