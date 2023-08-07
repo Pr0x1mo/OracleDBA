@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/active_user_sessions.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information on all active database sessions.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @active_user_sessions
