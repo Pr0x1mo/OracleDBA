@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/explain.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a tree-style execution plan of the specified statement after it has been explained.
 -- Requirements : Access to the plan table.
 -- Call Syntax  : @explain (statement-id)
