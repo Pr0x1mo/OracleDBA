@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/directory_permissions.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays permission information about all directories.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @directory_permissions (directory_name)
