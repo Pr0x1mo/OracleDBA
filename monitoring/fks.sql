@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/fks.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the constraints on a specific table and those referencing it.
 -- Call Syntax  : @fks (table-name) (schema)
 -- Last Modified: 15/07/2000
