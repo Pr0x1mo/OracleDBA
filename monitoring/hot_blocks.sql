@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/hot_blocks.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Detects hot blocks.
 -- Call Syntax  : @hot_blocks
 -- Last Modified: 17/02/2005
