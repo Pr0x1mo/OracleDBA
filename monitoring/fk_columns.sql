@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : http://www.oracle-base.com/dba/monitoring/fk_columns.sql
--- Author       : DR Timothy S Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information on all FKs for the specified schema and table.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @fk_columns (schema-name or all) (table-name or all)
