@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/index_partitions.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays partition information for the specified index, or all indexes.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @index_patitions (index_name or all) (schema-name)
