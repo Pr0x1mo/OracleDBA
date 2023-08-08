@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/index_extents.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays number of extents for all indexes belonging to the specified table, or all tables.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @index_extents (table_name or all) (schema-name)
