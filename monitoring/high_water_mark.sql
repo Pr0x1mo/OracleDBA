@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/high_water_mark.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the High Water Mark for the specified table, or all tables.
 -- Requirements : Access to the Dbms_Space.
 -- Call Syntax  : @high_water_mark (table_name or all) (schema-name)
