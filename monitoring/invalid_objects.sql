@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/invalid_objects.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Lists all invalid objects in the database.
 -- Call Syntax  : @invalid_objects
 -- Requirements : Access to the DBA views.
