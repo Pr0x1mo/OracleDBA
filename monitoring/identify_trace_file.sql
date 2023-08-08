@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/identify_trace_file.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the name of the trace file associated with the current session.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @identify_trace_file
