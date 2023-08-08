@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/jobs_running.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about all jobs currently running.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @jobs_running
