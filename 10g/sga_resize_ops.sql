@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/sga_resize_ops.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Provides information about memory resize operations.
 -- Requirements : Access to the v$ views.
 -- Call Syntax  : @sga_resize_ops
