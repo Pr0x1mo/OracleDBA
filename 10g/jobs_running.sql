@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/jobs_running.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays scheduler information for running jobs.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @jobs_running
