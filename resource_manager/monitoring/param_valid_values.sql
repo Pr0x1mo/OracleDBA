@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/param_valid_values.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Lists all valid values for the specified parameter.
 -- Call Syntax  : @param_valid_values (parameter-name)
 -- Requirements : Access to the v$views.
