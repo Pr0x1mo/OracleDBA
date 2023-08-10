@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/autotask_job_history.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the job history for the automatic maintenance tasks.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @autotask_job_history.sql
