@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/network_acls_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays DDL for all network ACLs.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @network_acls_ddl
