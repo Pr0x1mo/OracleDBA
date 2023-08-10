@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/monitoring_on.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Sets monitoring on for the specified tables.
 -- Call Syntax  : @monitoring_on (schema) (table-name or all)
 -- Last Modified: 21/03/2003
