@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/redo_by_hour.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Lists the volume of archived redo by hour for the specified day.
 -- Call Syntax  : @redo_by_hour (day 0=Today, 1=Yesterday etc.)
 -- Requirements : Access to the v$views.
