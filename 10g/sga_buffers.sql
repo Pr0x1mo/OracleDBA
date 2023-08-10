@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : http://www.oracle-base.com/dba/10g/sga_buffers.sql
--- Author       : DR Timothy S Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the status of buffers in the SGA.
 -- Requirements : Access to the v$ and DBA views.
 -- Call Syntax  : @sga_buffers
