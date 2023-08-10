@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/12c/clustering_tables.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Display clustering tables in the specified schema, or all schemas.
 -- Call Syntax  : @clustering_tables (schema or all)
 -- Last Modified: 24/12/2020
