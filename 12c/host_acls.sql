@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/12c/host_acls.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about host ACLs.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @host_acls
