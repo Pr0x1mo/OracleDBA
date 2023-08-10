@@ -1,6 +1,6 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/rbs_extents.sql
--- Author       : Tim Hall
+-- -----------------------------------------------------------------------------------
+-- Author       : Pr0x1mo
 -- Description  : Displays information about the rollback segment extents.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @rbs_extents
