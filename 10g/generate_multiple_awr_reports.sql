@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : http://www.oracle-base.com/dba/10g/generate_multiple_awr_reports.sql
--- Author       : DR Timothy S Hall
+-- Author       : Pr0x1mo
 -- Description  : Generates AWR reports for all snapsots between the specified start and end point.
 -- Requirements : Access to the v$ views, UTL_FILE and DBMS_WORKLOAD_REPOSITORY packages.
 -- Call Syntax  : Create the directory with the appropriate path.
