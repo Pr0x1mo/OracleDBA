@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/object_status.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a list of objects and their status for the specific schema.
 -- Requirements : Access to the ALL views.
 -- Call Syntax  : @object_status (schema-name)
