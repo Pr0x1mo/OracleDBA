@@ -1,6 +1,5 @@
 # -----------------------------------------------------------------------------------
-# File Name    : https://oracle-base.com/dba/weblogic/start-domain.sh
-# Author       : Tim Hall
+# Author       : Pr0x1mo
 # Description  : Starts a WebLogic domain and managed server.
 # Call Syntax  : ./start-domain.sh
 # Last Modified: 15-JUN-2013
