@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/table_triggers.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Lists the triggers for the specified table.
 -- Call Syntax  : @table_triggers (schema) (table_name)
 -- Last Modified: 07/11/2016
