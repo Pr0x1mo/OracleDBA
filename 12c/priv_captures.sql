@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/12c/priv_captures.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays privilege capture policies.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @priv_captures.sql
