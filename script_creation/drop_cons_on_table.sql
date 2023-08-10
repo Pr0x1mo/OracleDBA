@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/drop_cons_on_table.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL to drop the UK & PK constraints on the specified table, or all tables.
 -- Call Syntax  : @drop_cons_on_table (table-name or all) (schema)
 -- Last Modified: 28/01/2001
