@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/user_system_privs.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays system privileges granted to a specified user.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @user_system_privs (user-name)
