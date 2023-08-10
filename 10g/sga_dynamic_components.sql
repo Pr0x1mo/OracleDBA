@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/sga_dynamic_components.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Provides information about dynamic SGA components.
 -- Requirements : Access to the v$ views.
 -- Call Syntax  : @sga_dynamic_components
