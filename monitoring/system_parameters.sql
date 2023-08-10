@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/system_parameters.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a list of all the system parameters.
 --                Comment out isinstance_modifiable for use prior to 10g.
 -- Requirements : Access to the v$ views.
