@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/autotask_schedule.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the window schedule the automatic maintenance tasks.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @autotask_schedule.sql
