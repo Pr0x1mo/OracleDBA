@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/error_stack.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays contents of the error stack.
 -- Call Syntax  : @error_stack
 -- Last Modified: 15/07/2000
