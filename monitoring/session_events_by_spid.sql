@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/session_events_by_spid.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information on all database session events for the specified spid.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @session_events_by_spid (spid)
