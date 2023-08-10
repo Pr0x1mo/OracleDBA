@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/admin_privs.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the users who currently have admin privileges.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @min_datafile_size
