@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/non_indexed_fks.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a list of non-indexes FKs.
 -- Requirements : Access to the ALL views.
 -- Call Syntax  : @non_indexed_fks
