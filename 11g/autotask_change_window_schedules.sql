@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/autotask_change_window_schedules.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Use this script to alter the autotask window schedules.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @autotask_change_window_schedules.sql
