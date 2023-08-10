@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/ts_thresholds_set_default.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays threshold information for tablespaces.
 -- Call Syntax  : @ts_thresholds_set_default (warning) (critical)
 -- Last Modified: 13/02/2014 - Created
