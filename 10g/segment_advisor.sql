@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/segment_advisor.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays segment advice for the specified segment.
 -- Requirements : Access to the DBMS_ADVISOR package.
 -- Call Syntax  : Object-type = "tablespace":
