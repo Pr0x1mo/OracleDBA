@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/job_chain_rules.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays scheduler information about job chain rules.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @job_chain_rules
