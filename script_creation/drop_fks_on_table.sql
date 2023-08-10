@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/drop_fks_on_table.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL to drop the foreign keys on the specified table.
 -- Call Syntax  : @drop_fks_on_table (table-name) (schema)
 -- Last Modified: 28/01/2001
