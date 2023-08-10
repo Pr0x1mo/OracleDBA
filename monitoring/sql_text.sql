@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/sql_text.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the SQL statement held at the specified address.
 -- Comments     : The address can be found using v$session or Top_SQL.sql.
 -- Requirements : Access to the V$ views.
