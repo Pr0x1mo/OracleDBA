@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/max_extents.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays all tables and indexes nearing their MAX_EXTENTS setting.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @max_extents
