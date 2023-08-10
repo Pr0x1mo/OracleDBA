@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/fks_on_table_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL for the foreign keys on the specified table, or all tables.
 -- Call Syntax  : @fks_on_table_ddl (schema) (table-name or all)
 -- Last Modified: 16/03/2013 - Rewritten to use DBMS_METADATA
