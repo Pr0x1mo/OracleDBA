@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/table_partitions.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays partition information for the specified table, or all tables.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @table_partitions (table-name or all) (schema-name)
