@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/test_calendar_string.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the schedule associated with a calendar string.
 -- Requirements : Access to the DBMS_SCHEDULER package.
 -- Call Syntax  : @test_calendar_string (frequency) (interations)
