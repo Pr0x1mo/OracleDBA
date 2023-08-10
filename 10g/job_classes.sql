@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/job_classes.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays scheduler information about job classes.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @job_classes
