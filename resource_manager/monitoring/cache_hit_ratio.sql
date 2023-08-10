@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/cache_hit_ratio.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays cache hit ratio for the database.
 -- Comments     : The minimum figure of 89% is often quoted, but depending on the type of system this may not be possible.
 -- Requirements : Access to the v$ views.
