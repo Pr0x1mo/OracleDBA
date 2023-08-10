@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/job_output_file.sql
--- Author       : DR Timothy S Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays scheduler job information for previous runs.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @job_output_file (job-name) (credential-name)
