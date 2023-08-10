@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/monitoring_status.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Shows the monitoring status for the specified tables.
 -- Call Syntax  : @monitoring_status (schema) (table-name or all)
 -- Last Modified: 21/03/2003
