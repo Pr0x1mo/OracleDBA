@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/miscellaneous/analyze_all.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Outdated script to analyze all tables for the specified schema.
 -- Comment      : Use DBMS_UTILITY.ANALYZE_SCHEMA or DBMS_STATS.GATHER_SCHEMA_STATS if your server allows it.
 -- Call Syntax  : @ananlyze_all (schema-name)
