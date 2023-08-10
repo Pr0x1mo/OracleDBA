@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/parameters_non_default.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a list of all the non-default parameters.
 -- Requirements : Access to the v$ views.
 -- Call Syntax  : @parameters_non_default
