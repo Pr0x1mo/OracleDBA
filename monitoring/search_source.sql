@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/search_source.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a list of all code-objects that contain the specified word.
 -- Requirements : Access to the ALL views.
 -- Call Syntax  : @search_source (text) (schema-name)
