@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/longops_rac.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information on all long operations for whole RAC.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @longops_rac
