@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/undo_segments.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about undo segments.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @undo_segments {name | all}
