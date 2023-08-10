@@ -1,6 +1,5 @@
-# -----------------------------------------------------------------------------------
-# File Name    : https://oracle-base.com/dba/weblogic/stop-forms-reports.sh
-# Author       : Tim Hall
+-- -----------------------------------------------------------------------------------
+-- Author       : Pr0x1mo
 # Description  : Stop a WebLogic Forms and Reports Services installation.
 # Call Syntax  : ./stop-forms-reports.sh
 # Last Modified: 15-JUN-2013
