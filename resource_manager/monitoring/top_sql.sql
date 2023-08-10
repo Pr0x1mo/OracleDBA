@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/top_sql.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a list of SQL statements that are using the most resources.
 -- Comments     : The address column can be use as a parameter with SQL_Text.sql to display the full statement.
 -- Requirements : Access to the V$ views.
