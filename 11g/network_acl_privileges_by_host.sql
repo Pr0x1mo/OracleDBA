@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/network_acl_privileges_by_host.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays privileges for the network ACLs.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @network_acl_privileges_by_host (host | all)
