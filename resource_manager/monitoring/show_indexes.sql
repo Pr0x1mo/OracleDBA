@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : http://www.oracle-base.com/dba/monitoring/show_indexes.sql
--- Author       : DR Timothy S Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about specified indexes.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @show_indexes (schema) (table-name or all)
