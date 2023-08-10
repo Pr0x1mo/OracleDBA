@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/ts_extent_map.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays gaps (empty space) in a tablespace or specific datafile.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @ts_extent_map (tablespace-name) [all | file_id]
