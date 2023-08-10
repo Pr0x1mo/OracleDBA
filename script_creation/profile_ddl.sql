@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/profile_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the DDL for the specified profile(s).
 -- Call Syntax  : @profile_ddl (profile | part of profile)
 -- Last Modified: 28/01/2006
