@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/show_tables.sql
--- Author       : DR Timothy S Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about specified tables.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @show_tables (schema)
