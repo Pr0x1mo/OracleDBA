@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/18c/max_pdb_snapshots.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the MAX_PDB_SNAPSHOTS setting for each container.
 -- Requirements : Access to the CDB views.
 -- Call Syntax  : @max_pdb_snapshots
