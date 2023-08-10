@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/backup.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates a very basic hot-backup script. A useful starting point.
 -- Call Syntax  : @backup
 -- Last Modified: 28/01/2001
