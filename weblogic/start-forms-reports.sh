@@ -1,6 +1,5 @@
-# -----------------------------------------------------------------------------------
-# File Name    : https://oracle-base.com/dba/weblogic/start-forms-reports.sh
-# Author       : Tim Hall
+-- -----------------------------------------------------------------------------------
+-- Author       : Pr0x1mo
 # Description  : Starts a WebLogic Forms and Reports Services installation.
 # Call Syntax  : ./start-forms-reports.sh
 # Last Modified: 15-JUN-2013
