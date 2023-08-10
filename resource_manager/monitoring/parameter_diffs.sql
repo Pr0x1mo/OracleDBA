@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/parameter_diffs.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays parameter values that differ between the current value and the spfile.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @parameter_diffs
