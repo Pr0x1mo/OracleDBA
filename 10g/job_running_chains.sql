@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/job_running_chains.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays scheduler information about job running chains.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @job_running_chains.sql
