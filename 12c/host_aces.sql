@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/12c/host_aces.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about host ACEs.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @host_aces
