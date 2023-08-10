@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/default_passwords.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays users with default passwords.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @default_passwords
