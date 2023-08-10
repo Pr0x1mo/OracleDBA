@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/nls_params.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays National Language Suppport (NLS) information.
 -- Requirements : 
 -- Call Syntax  : @nls_params
