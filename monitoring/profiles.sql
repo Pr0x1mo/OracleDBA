@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/profiles.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the specified profile(s).
 -- Call Syntax  : @profiles (profile | part of profile | all)
 -- Last Modified: 28/01/2006
