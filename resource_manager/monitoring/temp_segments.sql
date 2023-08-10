@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/temp_segments.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a list of all temporary segments.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @temp_segments
