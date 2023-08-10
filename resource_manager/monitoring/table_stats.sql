@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/table_stats.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the table statistics belonging to the specified schema.
 -- Requirements : Access to the DBA and v$ views.
 -- Call Syntax  : @table_stats (schema-name) (table-name)
