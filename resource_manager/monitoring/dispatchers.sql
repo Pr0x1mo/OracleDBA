@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/dispatchers.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays dispatcher statistics.
 -- Requirements : Access to the v$ views.
 -- Call Syntax  : @dispatchers
