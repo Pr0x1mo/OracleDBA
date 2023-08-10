@@ -1,8 +1,7 @@
 CREATE OR REPLACE FUNCTION base64decode(p_clob CLOB)
   RETURN BLOB
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/miscellaneous/base64decode.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Decodes a Base64 CLOB into a BLOB
 -- Last Modified: 09/11/2011
 -- -----------------------------------------------------------------------------------
