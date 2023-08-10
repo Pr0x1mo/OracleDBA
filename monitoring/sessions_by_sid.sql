@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/sessions_by_sid.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information on all database sessions.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @sessions_by_sid (sid)
