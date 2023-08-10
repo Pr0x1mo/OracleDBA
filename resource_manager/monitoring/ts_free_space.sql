@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/ts_free_space.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a list of tablespaces and their used/full status.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @ts_free_space.sql
