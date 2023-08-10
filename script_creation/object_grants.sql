@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/object_grants.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the DDL for all grants on a specific object.
 -- Call Syntax  : @object_grants (owner) (object_name)
 -- Last Modified: 28/01/2006
