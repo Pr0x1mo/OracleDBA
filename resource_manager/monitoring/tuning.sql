@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/tuning.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays several performance indicators and comments on the value.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @tuning
