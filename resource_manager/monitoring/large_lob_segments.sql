@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/large_lob_segments.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays size of large LOB segments.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @large_lob_segments (rows)
