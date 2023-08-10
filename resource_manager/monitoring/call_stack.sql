@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/call_stack.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the current call stack.
 -- Requirements : Access to DBMS_UTILITY.
 -- Call Syntax  : @call_stack
