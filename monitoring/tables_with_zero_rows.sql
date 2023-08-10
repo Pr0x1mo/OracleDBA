@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/tables_with_zero_rows.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays tables with stats saying they have zero rows.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @tables_with_zero_rows.sql
