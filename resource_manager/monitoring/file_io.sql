@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/file_io.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the amount of IO for each datafile.
 -- Requirements : Access to the v$ views.
 -- Call Syntax  : @file_io
