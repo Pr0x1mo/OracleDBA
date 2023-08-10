@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/rbs_structure.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL for specified segment, or all segments.
 -- Call Syntax  : @rbs_structure (segment-name or all)
 -- Last Modified: 28/01/2001
