@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/synonym_public_remote_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL for public synonyms to remote objects.
 -- Call Syntax  : @synonym_remote_ddl
 -- Last Modified: 08/07/2013 - Rewritten to use DBMS_METADATA
