@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/user_undo_space.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the undo space currently in use by users.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @user_undo_space
