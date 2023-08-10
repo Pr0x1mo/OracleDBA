@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/18c/pdb_snapshots.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the snapshots for all PDBs.
 -- Requirements : Access to the CDB views.
 -- Call Syntax  : @pdb_snapshots
