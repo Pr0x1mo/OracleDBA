@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/obj_lock.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a list of locked objects.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @obj_lock
