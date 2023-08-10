@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/proxy_users.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about proxy users.
 -- Requirements : Access to the PROXY_USERS views.
 -- Call Syntax  : @proxy_users.sql {username or %}
