@@ -1,6 +1,5 @@
-# -----------------------------------------------------------------------------------
-# File Name    : https://oracle-base.com/dba/weblogic/stop-domain.sh
-# Author       : Tim Hall
+-- -----------------------------------------------------------------------------------
+-- Author       : Pr0x1mo
 # Description  : Stops a WebLogic domain and managed server.
 # Call Syntax  : ./stop-domain.sh
 # Last Modified: 15-JUN-2013
