@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/constraints/disable_pk.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Disables the Primary Key for the specified table, or all tables.
 -- Call Syntax  : @disable_pk (table-name or all) (schema-name)
 -- Last Modified: 28/01/2001
