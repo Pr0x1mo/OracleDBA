@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/12c/login.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Resets the SQL*Plus prompt when a new connection is made.
 --                Includes PDB:CDB.
 -- Call Syntax  : @login
