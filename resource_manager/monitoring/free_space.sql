@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/free_space.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays space usage for each datafile.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @free_space
