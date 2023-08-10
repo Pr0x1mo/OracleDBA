@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/12c/clustering_dimensions.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Display clustering dimensions in the specified schema, or all schemas.
 -- Call Syntax  : @clustering_dimensions (schema or all)
 -- Last Modified: 24/12/2020
