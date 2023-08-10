@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/profiler_runs.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information on all profiler_runs.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @profiler_runs.sql
