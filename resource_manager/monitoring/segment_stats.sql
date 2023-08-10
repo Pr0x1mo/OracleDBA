@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : http://www.oracle-base.com/dba/monitoring/segment_stats.sql
--- Author       : DR Timothy S Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays statistics for segments in th specified schema.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @segment_stats
