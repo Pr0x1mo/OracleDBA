@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/session_stats.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays session-specific statistics.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @session_stats (statistic-name or all)
