@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/temp_free_space.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about temporary tablespace usage.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @temp_free_space
