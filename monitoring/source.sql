@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/source.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the section of code specified. Prompts user for parameters.
 -- Requirements : Access to the ALL views.
 -- Call Syntax  : @source
