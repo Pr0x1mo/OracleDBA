@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/12c/cdb_resource_plans.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays CDB resource plans.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @cdb_resource_plans.sql
