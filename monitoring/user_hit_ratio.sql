@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/user_hit_ratio.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the Cache Hit Ratio per user.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @user_hit_ratio
