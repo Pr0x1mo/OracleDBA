@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/extended_stats.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Provides information about extended statistics.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @extended_stats
