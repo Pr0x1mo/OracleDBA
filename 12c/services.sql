@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/services.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about database services.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @services
