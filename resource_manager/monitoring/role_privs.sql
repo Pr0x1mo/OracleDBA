@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/role_privs.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a list of all roles and privileges granted to the specified role.
 -- Requirements : Access to the USER views.
 -- Call Syntax  : @role_privs (role-name, ALL)
