@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/temp_free_space.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays temp space usage for each datafile.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @temp_free_space
