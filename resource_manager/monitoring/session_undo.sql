@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/session_undo.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays undo information on relevant database sessions.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @session_undo
