@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/fks_ref_table_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL for the foreign keys that reference the specified table.
 -- Call Syntax  : @fks_ref_table_ddl (schema) (table-name)
 -- Last Modified: 16/03/2013 - Rewritten to use DBMS_METADATA
