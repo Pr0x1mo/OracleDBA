@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/redo_by_min.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Lists the volume of archived redo by min for the specified number of hours.
 -- Call Syntax  : @redo_by_min (N number of minutes from now)
 -- Requirements : Access to the v$views.
