@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/build_api2.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Generates a basic API package for the specific table.
 --                Update of build_api to use ROWTYPEs as parameters.
 -- Requirements : USER_% and ALL_% views.
