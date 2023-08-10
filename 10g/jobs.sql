@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/jobs.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays scheduler job information.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @jobs
