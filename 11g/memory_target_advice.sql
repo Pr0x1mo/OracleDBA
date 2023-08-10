@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/memory_target_advice.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Provides information to help tune the MEMORY_TARGET parameter.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @memory_target_advice
