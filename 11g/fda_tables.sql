@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/fda_tables.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about flashback data archives.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @fda_tables
