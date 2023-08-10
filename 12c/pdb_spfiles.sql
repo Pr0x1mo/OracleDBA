@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/12c/pdb_spfiles.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information from the pdb_spfile$ table.
 -- Requirements : Access to pdb_spfile$ and v$pdbs.
 -- Call Syntax  : @pdb_spfiles
