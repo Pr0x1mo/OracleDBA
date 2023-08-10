@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/jobs.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about all scheduled jobs.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @jobs
