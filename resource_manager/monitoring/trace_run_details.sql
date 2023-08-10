@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/trace_run_details.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays details of a specified trace run.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @trace_run_details.sql (runid)
