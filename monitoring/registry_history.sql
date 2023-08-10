@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/registry_history.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays contents of the registry history
 -- Requirements : Access to the DBA role.
 -- Call Syntax  : @registry_history
