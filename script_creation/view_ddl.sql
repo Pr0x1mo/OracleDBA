@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/view_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL for the specified view.
 -- Call Syntax  : @view_ddl (schema-name) (view-name)
 -- Last Modified: 16/03/2013 - Rewritten to use DBMS_METADATA
