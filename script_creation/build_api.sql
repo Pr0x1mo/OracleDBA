@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/build_api.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Generates a basic API package for the specific table.
 -- Requirements : USER_% and ALL_% views.
 -- Call Syntax  : @build_api (table-name) (schema)
