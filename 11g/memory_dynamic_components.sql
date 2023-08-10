@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/memory_dynamic_components.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Provides information about dynamic memory components.
 -- Requirements : Access to the v$ views.
 -- Call Syntax  : @memory_dynamic_components
