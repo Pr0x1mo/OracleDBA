@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/constraints/disable_chk.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Disables all check constraints for a specified table, or all tables.
 -- Call Syntax  : @disable_chk (table-name or all) (schema-name)
 -- Last Modified: 28/01/2001
