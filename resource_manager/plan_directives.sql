@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/resource_manager/plan_directives.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Lists all plan directives.
 -- Call Syntax  : @plan_directives (plan-name or all)
 -- Requirements : Access to the DBA views.
