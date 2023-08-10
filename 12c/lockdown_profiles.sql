@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/12c/lockdown_profiles.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about lockdown profiles.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @lockdown_profiles
