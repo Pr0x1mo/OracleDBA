@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/recovery_status.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the recovery status of each datafile.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @recovery_status
