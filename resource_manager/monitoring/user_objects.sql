@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/monitoring/user_objects.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the objects owned by the current user.
 -- Requirements : 
 -- Call Syntax  : @user_objects
