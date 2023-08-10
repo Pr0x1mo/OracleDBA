@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : http://www.oracle-base.com/dba/monitoring/locked_objects_internal.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Lists all locks on the specific object.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @locked_objects_internal (object-name)
