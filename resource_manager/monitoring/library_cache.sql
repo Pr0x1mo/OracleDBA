@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/library_cache.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays library cache statistics.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @library_cache
