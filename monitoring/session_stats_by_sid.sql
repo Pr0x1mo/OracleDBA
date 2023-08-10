@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : http://www.oracle-base.com/dba/monitoring/session_stats_by_sid.sql
--- Author       : DR Timothy S Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays session-specific statistics.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @session_stats_by_sid (sid) (statistic-name or all)
