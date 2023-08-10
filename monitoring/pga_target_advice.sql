@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/pga_target_advice.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Predicts how changes to the PGA_AGGREGATE_TARGET will affect PGA usage.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @pga_target_advice
