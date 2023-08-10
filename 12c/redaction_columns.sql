@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/12c/redaction_columns.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about columns related to redaction policies.
 -- Requirements : Access to the REDACTION_COLUMNS view.
 -- Call Syntax  : @redaction_columns (schema | all) (object | all)
