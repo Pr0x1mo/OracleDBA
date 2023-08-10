@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/resource_manager/consumer_groups.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Lists all consumer groups.
 -- Call Syntax  : @consumer_groups
 -- Requirements : Access to the DBA views.
