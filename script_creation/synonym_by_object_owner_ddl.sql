@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/synonym_by_object_owner_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL for the specified synonym, or all synonyms.
 --                Search based on owner of the object, not the synonym.
 -- Call Syntax  : @synonym_by_object_owner_ddl (schema-name) (synonym-name or all)
