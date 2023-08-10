@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/users.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about all database users.
 -- Requirements : Access to the dba_users view.
 -- Call Syntax  : @users [ username | % (for all)]
