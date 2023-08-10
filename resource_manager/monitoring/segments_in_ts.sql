@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/segments_in_ts.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Lists the objects stored in a tablespace.
 -- Call Syntax  : @objects_in_ts (tablespace-name)
 -- Last Modified: 15/06/2018
