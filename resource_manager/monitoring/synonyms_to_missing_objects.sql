@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/synonyms_to_missing_objects.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Lists all synonyms that point to missing objects.
 -- Call Syntax  : @synonyms_to_missing_objects(object-schema-name or all)
 -- Requirements : Access to the DBA views.
