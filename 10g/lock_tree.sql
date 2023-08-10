@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/lock_tree.sql
--- Author       : DR Timothy S Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information on all database sessions with the username
 --                column displayed as a heirarchy if locks are present.
 -- Requirements : Access to the V$ views.
