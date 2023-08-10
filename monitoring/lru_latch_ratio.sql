@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/lru_latch_ratio.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays current LRU latch ratios.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @lru_latch_hit_ratio
