@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/rbs_stats.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays rollback segment statistics.
 -- Requirements : Access to the v$ & DBA views.
 -- Call Syntax  : @rbs_stats
