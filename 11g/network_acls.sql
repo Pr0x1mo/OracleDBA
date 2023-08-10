@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/network_acls.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about network ACLs.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @network_acls
