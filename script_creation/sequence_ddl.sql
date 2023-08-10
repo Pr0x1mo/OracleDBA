@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/sequence_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL for the specified sequence, or all sequences.
 -- Call Syntax  : @sequence_ddl (schema-name) (sequence-name or all)
 -- Last Modified: 16/03/2013 - Rewritten to use DBMS_METADATA
