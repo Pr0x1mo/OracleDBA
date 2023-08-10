@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/pipes.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a list of all database pipes.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @pipes
