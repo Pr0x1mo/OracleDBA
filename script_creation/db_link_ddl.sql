@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/db_link_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL for DB links for the specific schema, or all schemas.
 -- Call Syntax  : @db_link_ddl (schema or all)
 -- Last Modified: 16/03/2013
