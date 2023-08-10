@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : http://www.oracle-base.com/dba/monitoring/temp_extent_map.sql
--- Author       : DR Timothy S Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays temp extents and their locations within the tablespace allowing identification of tablespace fragmentation.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @temp_extent_map (tablespace-name)
