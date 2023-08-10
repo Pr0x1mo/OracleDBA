@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/table_indexes.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays index-column information for the specified table.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @table_indexes (schema-name) (table-name)
