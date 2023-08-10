@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/statistics_prefs.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays current statistics preferences.
 -- Requirements : Access to the DBMS_STATS package.
 -- Call Syntax  : @statistics_prefs
