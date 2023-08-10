@@ -1,6 +1,5 @@
-# -----------------------------------------------------------------------------------
-# File Name    : https://oracle-base.com/dba/weblogic/start-node-manager.sh
-# Author       : Tim Hall
+-- -----------------------------------------------------------------------------------
+-- Author       : Pr0x1mo
 # Description  : Starts the WebLogic Node Manager
 # Call Syntax  : ./start-node-manager.sh
 # Last Modified: 15-JUN-2013
