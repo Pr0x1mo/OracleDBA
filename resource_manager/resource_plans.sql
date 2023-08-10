@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/resource_manager/resource_plans.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Lists all resource plans.
 -- Call Syntax  : @resource_plans
 -- Requirements : Access to the DBA views.
