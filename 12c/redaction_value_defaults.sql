@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/12c/redaction_value_defaults.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about redaction defaults.
 -- Requirements : Access to the REDACTION_VALUES_FOR_TYPE_FULL view.
 -- Call Syntax  : @redaction_value_defaults
