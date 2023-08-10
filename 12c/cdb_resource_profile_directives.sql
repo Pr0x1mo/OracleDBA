@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/12c/cdb_resource_profile_directives.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays CDB resource profile directives.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @cdb_resource_profile_directives.sql (plan-name or all)
