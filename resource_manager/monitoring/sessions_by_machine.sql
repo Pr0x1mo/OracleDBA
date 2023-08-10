@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/sessions_by_machine.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the number of sessions for each client machine.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @sessions_by_machine
