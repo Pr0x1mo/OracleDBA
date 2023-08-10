@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/database_block_corruption.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the users who currently have admin privileges.
 -- Requirements : Access to the V$ and DBA views.
 --                Assumes a RMAN VALIDATE has been run against a datafile, tablespace
