@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/show_space.sql
--- Author       : Tom Kyte
+-- Author       : Pr0x1mo
 -- Description  : Displays free and unused space for the specified object.
 -- Call Syntax  : EXEC Show_Space('Tablename');
 -- Requirements : SET SERVEROUTPUT ON              
