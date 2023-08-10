@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/redo_by_day.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Lists the volume of archived redo by day for the specified number of days.
 -- Call Syntax  : @redo_by_day (days)
 -- Requirements : Access to the v$views.
