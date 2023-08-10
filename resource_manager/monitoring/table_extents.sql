@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/table_extents.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a list of tables having more than 1 extent.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @table_extents (schema-name)
