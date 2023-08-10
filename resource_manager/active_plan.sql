@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/resource_manager/active_plan.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Lists the currently active resource plan if one is set.
 -- Call Syntax  : @active_plan
 -- Requirements : Access to the v$ views.
