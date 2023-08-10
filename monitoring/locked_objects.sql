@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/locked_objects.sql
--- Author       : DR Timothy S Hall
+-- Author       : Pr0x1mo
 -- Description  : Lists all locked objects.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @locked_objects
