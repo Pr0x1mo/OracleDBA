@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/role_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the DDL for a specific role.
 -- Call Syntax  : @role_ddl (role)
 -- Last Modified: 27/07/2022 - Increase long to 1000000.
