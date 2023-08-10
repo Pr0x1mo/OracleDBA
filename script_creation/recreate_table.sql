@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/recreate_table.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL to recreate the specified table.
 -- Comments     : Mostly used when dropping columns prior to Oracle 8i. Not updated since Oracle 7.3.4.
 -- Requirements : Requires a number of the other creation scripts.
