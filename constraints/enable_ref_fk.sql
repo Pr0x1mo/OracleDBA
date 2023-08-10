@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/constraints/enable_ref_fk.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Enables all Foreign Keys referencing a specified table, or all tables.
 -- Call Syntax  : @enable_ref_fk (table-name) (schema-name)
 -- Last Modified: 28/01/2001
