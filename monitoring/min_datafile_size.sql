@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : http://www.oracle-base.com/dba/monitoring/min_datafile_size.sql
--- Author       : DR Timothy S Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays smallest size the datafiles can shrink to without a reorg.
 -- Requirements : Access to the V$ and DBA views.
 -- Call Syntax  : @min_datafile_size
