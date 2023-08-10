@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/table_grants_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL for all grants on the specified table.
 -- Call Syntax  : @table_grants_ddl (schema) (table_name)
 -- Last Modified: 16/03/2013 - Rewritten to use DBMS_METADATA
