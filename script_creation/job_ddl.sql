@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/job_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL for the specified job.
 -- Call Syntax  : @job_ddl (schema-name) (job-name)
 -- Last Modified: 31/12/2018
