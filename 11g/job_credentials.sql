@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/job_credentials.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays scheduler information about job credentials.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @job_credentials
