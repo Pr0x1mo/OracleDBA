@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/18c/pdb_snapshot_mode.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the SNAPSHOT_MODE and SNAPSHOT_INTERVAL setting for each container.
 -- Requirements : Access to the CDB views.
 -- Call Syntax  : @pdb_snapshot_mode
