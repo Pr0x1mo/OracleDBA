@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/tempseg_usage.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays temp segment usage for all session currently using temp space.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @tempseg_usage
