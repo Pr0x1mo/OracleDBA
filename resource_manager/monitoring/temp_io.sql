@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/temp_io.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the amount of IO for each tempfile.
 -- Requirements : Access to the v$ views.
 -- Call Syntax  : @temp_io
