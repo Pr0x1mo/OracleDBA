@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : http://www.oracle-base.com/dba/monitoring/user_temp_space.sql
--- Author       : DR Timothy S Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the temp space currently in use by users.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @user_temp_space
