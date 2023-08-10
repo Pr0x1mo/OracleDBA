@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/column_defaults.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the default values where present for the specified table.
 -- Call Syntax  : @column_defaults (table-name)
 -- Last Modified: 15/07/2000
