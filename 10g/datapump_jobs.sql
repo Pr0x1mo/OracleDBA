@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/datapump_jobs.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about all Data Pump jobs.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @datapump_jobs
