@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/ts_thresholds_reset.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays threshold information for tablespaces.
 -- Call Syntax  : @ts_thresholds_reset (warning) (critical)
 --                @ts_thresholds_reset NULL NULL    -- To reset to defaults
