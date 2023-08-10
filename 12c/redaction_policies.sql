@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/12c/redaction_policies.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays redaction policy information.
 -- Requirements : Access to the REDACTION_POLICIES view.
 -- Call Syntax  : @redaction_policies
