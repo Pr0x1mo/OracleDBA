@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/recyclebin.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the contents of the recyclebin.
 -- Requirements : Access to the DBA views. Depending on DB version, different columns
 --                are available.
