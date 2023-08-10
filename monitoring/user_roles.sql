@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/user_roles.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a list of all roles and privileges granted to the specified user.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @user_roles (username)
