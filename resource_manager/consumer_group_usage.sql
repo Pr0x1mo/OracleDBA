@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/resource_manager/consumer_group_usage.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Lists usage information of consumer groups.
 -- Call Syntax  : @consumer_group_usage
 -- Requirements : Access to the v$ views.
