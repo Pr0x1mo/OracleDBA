@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/unused_space.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays unused space for each segment.
 -- Requirements : Access to the DBMS_SPACE package.
 -- Call Syntax  : @unused_space (segment_owner) (segment_name) (segment_type) (partition_name OR NA)
