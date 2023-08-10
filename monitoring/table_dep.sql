@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/table_dep.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a list dependencies for the specified table.
 -- Requirements : Access to the ALL views.
 -- Call Syntax  : @table_dep (table-name) (schema-name)
