@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/object_privs.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays object privileges on a specified object.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @object_privs (owner) (object-name)
