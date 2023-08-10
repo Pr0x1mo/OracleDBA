@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/directory_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL for specified directory, or all directories.
 -- Call Syntax  : @directory_ddl (directory or all)
 -- Last Modified: 16/03/2013
