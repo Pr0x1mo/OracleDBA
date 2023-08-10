@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/segment_size.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays size of specified segment.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @segment_size (owner) (segment_name)
