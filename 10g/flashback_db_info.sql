@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/flashback_db_info.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information relevant to flashback database.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @flashback_db_info
