@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/db_links_open.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information on all open database links.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @db_links_open
