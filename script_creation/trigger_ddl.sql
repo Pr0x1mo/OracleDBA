@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/trigger_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL for specified trigger, or all trigger.
 -- Call Syntax  : @trigger_ddl (schema) (trigger-name or all)
 -- Last Modified: 16/03/2013 - Rewritten to use DBMS_METADATA
