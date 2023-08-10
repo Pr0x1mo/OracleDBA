@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/default_tablespaces.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the default temporary and permanent tablespaces.
 -- Requirements : Access to the DATABASE_PROPERTIES views.
 -- Call Syntax  : @default_tablespaces
