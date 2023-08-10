@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/unusable_indexes.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays unusable indexes for the specified schema or all schemas.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @unusable_indexes (schema-name or all)
