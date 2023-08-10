@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/constraints/enable_fk.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Enables all Foreign Keys belonging to the specified table, or all tables.
 -- Call Syntax  : @enable_fk (table-name or all) (schema-name)
 -- Last Modified: 28/01/2001
