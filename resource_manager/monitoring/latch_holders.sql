@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/latch_holders.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about all current latch holders.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @latch_holders
