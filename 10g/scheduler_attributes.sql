@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/scheduler_attributes.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the top-level scheduler parameters.
 -- Requirements : Access to the DBMS_SCHEDULER package and the MANAGE SCHEDULER privilege.
 -- Call Syntax  : @scheduler_attributes
