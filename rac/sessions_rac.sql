@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/sessions_rac.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information on all database sessions for whole RAC.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @sessions_rac
