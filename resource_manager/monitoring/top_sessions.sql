@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/top_sessions.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information on all database sessions ordered by executions.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @top_sessions.sql (reads, execs or cpu)
