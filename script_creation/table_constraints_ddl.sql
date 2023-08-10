@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/table_constraints_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the UK & PK constraint DDL for specified table, or all tables.
 -- Call Syntax  : @table_constraints_ddl (schema-name) (table-name or all)
 -- Last Modified: 16/03/2013 - Rewritten to use DBMS_METADATA
