@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/dynamic_memory.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the values of the dynamically memory pools.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @dynamic_memory
