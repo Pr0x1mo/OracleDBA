@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/user_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the DDL for a specific user.
 -- Call Syntax  : @user_ddl (username)
 -- Last Modified: 07/08/2018
