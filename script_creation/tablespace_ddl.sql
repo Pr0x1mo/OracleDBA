@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/tablespace_ddl.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL for the specified tablespace, or all tablespaces.
 -- Call Syntax  : @tablespace_ddl (tablespace-name or all)
 -- Last Modified: 16/03/2013 - Rewritten to use DBMS_METADATA
