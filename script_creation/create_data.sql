@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/create_data.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Creates the DDL to repopulate the specified table.
 -- Call Syntax  : @create_data (table-name) (schema)
 -- Last Modified: 28/01/2001
