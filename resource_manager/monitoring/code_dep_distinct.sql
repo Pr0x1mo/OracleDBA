@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/code_dep_distinct.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a tree of dependencies of specified object.
 -- Call Syntax  : @code_dep_distinct (schema-name) (object-name) (object_type or all)
 -- Last Modified: 15/07/2000
