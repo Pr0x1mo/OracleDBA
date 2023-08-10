@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/10g/feature_usage.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays feature usage statistics.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @feature_usage
