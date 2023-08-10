@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : http://www.oracle-base.com/dba/monitoring/hidden_parameters.sql
--- Author       : DR Timothy S Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays a list of one or all the hidden parameters.
 -- Requirements : Access to the v$ views.
 -- Call Syntax  : @hidden_parameters (parameter-name or all)
