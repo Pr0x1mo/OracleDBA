@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/objects.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about all database objects.
 -- Requirements : Access to the dba_objects view.
 -- Call Syntax  : @objects [ object-name | % (for all)]
