@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/18c/lockdown_rules.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about lockdown rules applis in the current container.
 -- Requirements : Access to the DBA views.
 -- Call Syntax  : @lockdown_rules
