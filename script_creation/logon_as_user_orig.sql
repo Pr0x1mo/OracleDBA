@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/script_creation/logon_as_user_orig.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the DDL for a specific user.
 --                Better approaches included here.
 --                https://oracle-base.com/articles/misc/proxy-users-and-connect-through
