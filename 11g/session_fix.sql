@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/session_fix.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Provides information about session fixes for the specified phrase and version.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @session_fix (session_id | all) (phrase | all) (version | all)
