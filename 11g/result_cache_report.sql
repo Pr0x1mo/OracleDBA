@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/result_cache_report.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the result cache report.
 -- Requirements : Access to the DBMS_RESULT_CACHE package.
 -- Call Syntax  : @result_cache_report
