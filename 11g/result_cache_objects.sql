@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/result_cache_objects.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays information about the objects in the result cache.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @result_cache_objects
