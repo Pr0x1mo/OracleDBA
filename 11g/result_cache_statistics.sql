@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/result_cache_statistics.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays result cache statistics.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @result_cache_statistics
