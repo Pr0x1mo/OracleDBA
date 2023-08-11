@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/system_fix_count.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Provides information about system fixes per version.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @system_fix_count
