@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/system_fix.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Provides information about system fixes for the specified phrase and version.
 -- Requirements : Access to the V$ views.
 -- Call Syntax  : @system_fix (phrase | all) (version | all)
