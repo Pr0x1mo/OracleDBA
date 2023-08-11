@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/result_cache_status.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the status of the result cache.
 -- Requirements : Access to the DBMS_RESULT_CACHE package.
 -- Call Syntax  : @result_cache_status
