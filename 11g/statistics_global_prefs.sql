@@ -1,6 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/11g/statistics_global_prefs.sql
--- Author       : Tim Hall
+-- Author       : Pr0x1mo
 -- Description  : Displays the top-level global statistics preferences.
 -- Requirements : Access to the DBMS_STATS package.
 -- Call Syntax  : @statistics_global_prefs
