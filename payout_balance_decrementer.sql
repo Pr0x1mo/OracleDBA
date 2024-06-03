@@ -1,3 +1,17 @@
+DECLARE
+    l_balance NUMBER;
+BEGIN
+    -- Fetch the order total for the given order ID
+    SELECT ORDER_TOTAL
+    INTO l_balance
+    FROM OE.ORDERS
+    WHERE ORDER_ID = 2458;
+
+    -- Output the fetched balance
+    DBMS_OUTPUT.PUT_LINE('The balance for ORDER_ID 2458 is: ' || l_balance);
+END;
+/
+
 CREATE OR REPLACE PROCEDURE pay_out_balance (
     order_id_in IN OE.ORDERS.order_id%TYPE
 )
@@ -13,11 +27,12 @@ IS
         SELECT ORDER_TOTAL
         INTO l_balance
         FROM OE.ORDERS
-        WHERE ORDER_ID = order_id AND ROWNUM = 1;
+        WHERE ORDER_ID = order_id AND ROWNUM = 1; --this should not be necessary since its only one row of data for that order_id as shown above
 
         RETURN l_balance;
+	
     END account_balance;
-
+	--DBMS_OUTPUT.PUT_LINE('The balance for ORDER_ID 2458 is: ' || l_balance);
     -- Procedure to print the balance application instead of updating
     PROCEDURE apply_balance (order_id IN OE.ORDERS.order_id%TYPE, balance IN NUMBER) IS
     BEGIN
@@ -40,7 +55,7 @@ BEGIN
         END IF;
 
         -- Output the current balance for debugging
-        DBMS_OUTPUT.PUT_LINE('Current balance: ' || l_balance_remaining);
+        DBMS_OUTPUT.PUT_LINE(l_loop_counter || ' Current balance: ' || l_balance_remaining);
 
         -- Check if the balance is below the threshold
         IF l_balance_remaining < 1000 THEN
@@ -51,7 +66,7 @@ BEGIN
             apply_balance(order_id_in, l_balance_remaining);
 
             -- Simulate balance decrease for loop exit
-            l_balance_remaining := l_balance_remaining - 5000; -- Adjusting the decrement to 5000 for faster convergence
+            l_balance_remaining := l_balance_remaining - 1000; -- Adjusting the decrement to 5000 for faster convergence
         END IF;
     END LOOP;
 END pay_out_balance;
