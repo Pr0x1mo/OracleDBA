@@ -1,0 +1,34 @@
+-- GoldenGate Configuration Script Sample
+
+-- Source Database Configuration (PROD)
+SOURCEDB:
+  SETENV (ORACLE_HOME='/path/to/source/oracle_home')
+  SETENV (ORACLE_SID='PROD')
+  EXTTRAIL /path/to/source/trail
+
+-- Target Database Configuration (PROD_REPL)
+TARGETDB:
+  SETENV (ORACLE_HOME='/path/to/target/oracle_home')
+  SETENV (ORACLE_SID='PROD_REPL')
+  RMTTRAIL /path/to/target/trail
+  DISCARDFILE /path/to/target/discard
+
+-- Replication Configuration
+GLOBALS:
+  -- Set up GoldenGate parameters
+  -- Example parameters:
+  -- RMTHOST target_server, MGRPORT 7809, TCPBUFSIZE 64000
+  -- Use appropriate values for your environment
+
+EXTRACT EXT1:
+  -- Configure Extract process for source database
+  -- Example configuration:
+  -- USERID ogg_user, PASSWORD password
+  -- EXTTRAIL /path/to/source/trail, FORMAT RELEASE 12.3
+  -- TABLES schema_name.*;
+
+REPLICAT REP1:
+  -- Configure Replicat process for target database
+  -- Example configuration:
+  -- USERID ogg_user, PASSWORD password
+  -- MAP schema_name.*, TARGET schema_name.*;
